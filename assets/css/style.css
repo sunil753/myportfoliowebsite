@@ -1,5 +1,4 @@
-
-html{
+html {
   scroll-behavior: smooth;
 }
 
@@ -277,9 +276,8 @@ h6 {
 }
 #hero .project__btn:hover {
   background: #4fb9ea;
-
 }
-#hero .project__btn  a{
+#hero .project__btn a {
   color: #fff;
 }
 @media (max-width: 1200px) {
